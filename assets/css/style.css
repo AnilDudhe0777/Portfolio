@@ -466,7 +466,7 @@ main {
   border-radius: 12px 12px 0 0;
   box-shadow: var(--shadow-2);
   z-index: 5;
-  padding: 5px 0; /* Reduce padding */
+  padding: 10px 0; /* Reduce padding */
 }
 
 .navbar-list {
@@ -480,7 +480,7 @@ main {
 .navbar-link {
   color: var(--light-gray);
   font-size: var(--fs-7); /* Decrease font size */
-  padding: 10px 5px; /* Reduce padding */
+  padding: 16px 2px; /* Reduce padding */
   transition: color var(--transition-1);
 }
 
